@@ -1,4 +1,4 @@
-# Grand Prix Transportation Optimization
+# Transportation Logistics Optimization 
 ## Objective
 The objective of this project is to find the most efficient shipping plan for Grand Prix Transportation, aiming to minimize shipping costs while ensuring that the demands of each region are met without exceeding the capacities of the plants.
 
